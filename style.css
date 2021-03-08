@@ -167,7 +167,7 @@
     top: 0;
     width: 900px;
     height: 100%;
-    background-image: url(images/n1.jpg);
+    background-image: url(img/n1.jpg);
     background-size: cover;
     transition: -webkit-transform 1.2s ease-in-out;
     transition: transform 1.2s ease-in-out, -webkit-transform 1.2s ease-in-out;
